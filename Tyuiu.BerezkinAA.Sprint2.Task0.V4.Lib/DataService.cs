@@ -3,6 +3,7 @@
 
 namespace Tyuiu.BerezkinAA.Sprint2.Task0.V4.Lib
 {
+
     public class DataService : ISprint2Task0V4
     {
         public bool[] GetCompareOperations(int x, int y)
